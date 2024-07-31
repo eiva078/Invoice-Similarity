@@ -10,7 +10,7 @@ This project is a web-based prototype system for matching incoming invoices to e
 
 1. Navigate to the `backend` directory:
    ```sh
-   cd backend
+   cd server
    ```
 2. Install the required Python libraries:
    ```sh
@@ -25,7 +25,7 @@ This project is a web-based prototype system for matching incoming invoices to e
 
 1. Navigate to the `frontend` directory:
    ```sh
-   cd frontend
+   cd client
    ```
 2. Install the required npm packages:
    ```sh
